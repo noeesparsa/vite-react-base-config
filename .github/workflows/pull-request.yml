@@ -6,7 +6,7 @@ on:
   pull_request:
 
 jobs:
-  joka_integration:
+  continuous_integration:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
