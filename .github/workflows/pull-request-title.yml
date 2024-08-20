@@ -13,4 +13,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           ignoreLabels: |
-            dependencies
+            Dependencies :package:
