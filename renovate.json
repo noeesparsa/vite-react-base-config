@@ -11,7 +11,7 @@
   "enabled": true,
   "prHourlyLimit": 10,
   "prCreation": "immediate",
-  "branchConcurrentLimit": 5,
+  "branchConcurrentLimit": 10,
   "branchPrefix": "dependencies/",
   "labels": ["Dependencies :package:"],
   "assignees": ["Rangoow"],
